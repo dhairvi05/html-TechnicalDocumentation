@@ -1,0 +1,10 @@
+navbar
+{
+text-align: left;
+}
+
+@media (max-width: 600px) {
+body {
+background-color: lightblue;
+}
+}
